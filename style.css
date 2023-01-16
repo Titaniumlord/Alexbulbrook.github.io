@@ -6,4 +6,9 @@
 
 body {
   background-color: aquamarine;
+  font-family: "Roboto+Slab";
+}
+.list a {
+  color: black;
+  text-decoration: none;
 }
